@@ -1,0 +1,3 @@
+- MFCC 
+- Unsupervised vad -> remove silence
+- normalize mfcc by a sliding window up to 3 secs
